@@ -1,0 +1,12 @@
+$color-error-title: darkred;
+
+.error_wrap {
+	display: flex;
+	justify-content: center;
+	flex-direction: column; 
+	align-items: center;
+}
+
+.error_title {
+	color: $color-error-title;
+}
